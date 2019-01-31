@@ -1,4 +1,4 @@
-token=NTMxMjY1MjI1NzYxMjI2Nzg5.DzTD8Q.mF1m5omVg4QBrXJ34zkEcqUNlMI
+token=NTQwNTg4ODY2OTQ0NDk5NzEy.DzTGIQ.P9VooluIZAz82CLYqfZxtaiAdRY
 owner=512625982751113216 
 prefix=--
 game=Community System
