@@ -1,6 +1,6 @@
-token=NTMxMjY1MjI1NzYxMjI2Nzg5.DxLa3g.4YPQ-hYFBb5MGsvYMNCNgVFnraQ
+token=NTMxMjY1MjI1NzYxMjI2Nzg5.DzTD8Q.mF1m5omVg4QBrXJ34zkEcqUNlMI
 owner=512625982751113216 
-prefix=.
-game=.play
+prefix=--
+game=Community System
 stayinchannel=true
 songinstatus=false
